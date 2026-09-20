@@ -1,0 +1,8 @@
+{
+  "version": "2.0.0",
+  "release_name": "OPF System v2.0.0",
+  "installer_url": "",
+  "release_page_url": "https://github.com/Anmol-07hub/OPF-System-Updates/releases",
+  "notes": "Initial OPF System V2 release.",
+  "mandatory": false
+}
