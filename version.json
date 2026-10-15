@@ -1,8 +1,8 @@
 {
-  "version": "3.0.0",
-  "release_name": "OPF System v3.0.0",
-  "installer_url": "https://github.com/Anmol-07hub/OPF-System-Updates/releases/download/v3.0.0/OPF_System_Setup_v3.0.0.exe",
-  "release_page_url": "https://github.com/Anmol-07hub/OPF-System-Updates/releases/tag/v3.0.0",
-  "notes": "Version 3.0.0 introduces centralized cloud data, shared invoice PDFs, multi-PC support, cloud reports, central user management and software update support.",
+  "version": "3.0.1",
+  "release_name": "OPF System v3.0.1",
+  "installer_url": "https://github.com/Anmol-07hub/OPF-System-Updates/releases/download/v3.0.1/OPF_System_Setup_v3.0.1.exe",
+  "release_page_url": "https://github.com/Anmol-07hub/OPF-System-Updates/releases/tag/v3.0.1",
+  "notes": "Version 3.0.1 adds Purchase Order PDF and image attachments to OPFs, including attachments during new OPF creation and shared access from multiple PCs.",
   "mandatory": false
 }
